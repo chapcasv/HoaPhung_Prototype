@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 987377e7d0cff5546b231c09c9773472, type: 3}
+  m_Name: List Effect
+  m_EditorClassIdentifier: 
+  all_effectAtk:
+  - {fileID: 11400000, guid: c008f4332fe02444197d167d9a6f926a, type: 2}
+  - {fileID: 11400000, guid: b76cce115af51f4409d0e7da9460f825, type: 2}
+  - {fileID: 11400000, guid: dd636074d705eb249b4f773f7ba3ea82, type: 2}
+  - {fileID: 11400000, guid: a709139cb3f0721478e127324d5be82f, type: 2}
+  all_effectSkill:
+  - {fileID: 11400000, guid: 52155f2c8295efa42b43e166efc59d86, type: 2}

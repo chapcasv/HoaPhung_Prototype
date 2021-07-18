@@ -1,0 +1,1644 @@
+fileFormatVersion: 2
+guid: 3e9043395f56b6544a6cbbacc17c7e5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5325613066984449175
+    second: chessgrille_0
+  - first:
+      213: 4577710508320772098
+    second: chessgrille_1
+  - first:
+      213: 3196309519252038940
+    second: chessgrille_2
+  - first:
+      213: 7288351898615143031
+    second: chessgrille_3
+  - first:
+      213: 7760184855517942311
+    second: chessgrille_4
+  - first:
+      213: 5988162643792448156
+    second: chessgrille_5
+  - first:
+      213: 2248727064881182016
+    second: chessgrille_6
+  - first:
+      213: -1454276139328062559
+    second: chessgrille_7
+  - first:
+      213: -2354481555425806399
+    second: chessgrille_8
+  - first:
+      213: -4204709602632733147
+    second: chessgrille_9
+  - first:
+      213: -6823153476411503465
+    second: chessgrille_10
+  - first:
+      213: -1718798261454105636
+    second: chessgrille_11
+  - first:
+      213: 9003074685326736968
+    second: chessgrille_12
+  - first:
+      213: -1542191243653896180
+    second: chessgrille_13
+  - first:
+      213: -5925589331028498498
+    second: chessgrille_14
+  - first:
+      213: 5698877118815984187
+    second: chessgrille_15
+  - first:
+      213: 654155106765771607
+    second: chessgrille_16
+  - first:
+      213: -2692016625541376228
+    second: chessgrille_17
+  - first:
+      213: 7336783981000082646
+    second: chessgrille_18
+  - first:
+      213: 5522907223859908912
+    second: chessgrille_19
+  - first:
+      213: 6551067192840285580
+    second: chessgrille_20
+  - first:
+      213: 5295281926628769557
+    second: chessgrille_21
+  - first:
+      213: -5571944334814807646
+    second: chessgrille_22
+  - first:
+      213: 2870564393186708710
+    second: chessgrille_23
+  - first:
+      213: 5100757232444703434
+    second: chessgrille_24
+  - first:
+      213: 2838803628352185325
+    second: chessgrille_25
+  - first:
+      213: 2901883630303690136
+    second: chessgrille_26
+  - first:
+      213: 4993534647806334278
+    second: chessgrille_27
+  - first:
+      213: -5994597615770955483
+    second: chessgrille_28
+  - first:
+      213: 8836943216034521556
+    second: chessgrille_29
+  - first:
+      213: 7862596958889220243
+    second: chessgrille_30
+  - first:
+      213: 7432609005809293185
+    second: chessgrille_31
+  - first:
+      213: -7215714241288900678
+    second: chessgrille_32
+  - first:
+      213: 8304492165476509549
+    second: chessgrille_33
+  - first:
+      213: -8617661628043505525
+    second: chessgrille_34
+  - first:
+      213: 3974438003100872755
+    second: chessgrille_35
+  - first:
+      213: 2443142140174702530
+    second: chessgrille_36
+  - first:
+      213: 3586131512250416005
+    second: chessgrille_37
+  - first:
+      213: 636430981627763249
+    second: chessgrille_38
+  - first:
+      213: -8217562498088777649
+    second: chessgrille_39
+  - first:
+      213: -4561044985539162291
+    second: chessgrille_40
+  - first:
+      213: -8693049936351039383
+    second: chessgrille_41
+  - first:
+      213: 2950867539629978038
+    second: chessgrille_42
+  - first:
+      213: -8965438213664480200
+    second: chessgrille_43
+  - first:
+      213: 8697389736689315744
+    second: chessgrille_44
+  - first:
+      213: 997041444933064796
+    second: chessgrille_45
+  - first:
+      213: -6705853053901684086
+    second: chessgrille_46
+  - first:
+      213: 1483215705723206565
+    second: chessgrille_47
+  - first:
+      213: 3873244153036550732
+    second: chessgrille_48
+  - first:
+      213: 3749686860823011457
+    second: chessgrille_49
+  - first:
+      213: 313277704197435003
+    second: chessgrille_50
+  - first:
+      213: 5710487060825111245
+    second: chessgrille_51
+  - first:
+      213: -1622064331472811828
+    second: chessgrille_52
+  - first:
+      213: 6274357628153556948
+    second: chessgrille_53
+  - first:
+      213: -6034245737591618606
+    second: chessgrille_54
+  - first:
+      213: 7584686797688890681
+    second: chessgrille_55
+  - first:
+      213: -2621631384903207036
+    second: chessgrille_56
+  - first:
+      213: 4073782775309308375
+    second: chessgrille_57
+  - first:
+      213: 337087755187613526
+    second: chessgrille_58
+  - first:
+      213: -7801121906519698902
+    second: chessgrille_59
+  - first:
+      213: -8924865085512717672
+    second: chessgrille_60
+  - first:
+      213: -1442483085087036619
+    second: chessgrille_61
+  - first:
+      213: -7840059303479414315
+    second: chessgrille_62
+  - first:
+      213: -160870894968908449
+    second: chessgrille_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 62
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chessgrille_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79469cc3ed068e940800000000000000
+      internalID: 5325613066984449175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 435
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200580d147b478f30800000000000000
+      internalID: 4577710508320772098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 435
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15a73fa2929b5c20800000000000000
+      internalID: 3196309519252038940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 435
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77adffabf6d652560800000000000000
+      internalID: 7288351898615143031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 435
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7225388c207b1bb60800000000000000
+      internalID: 7760184855517942311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 435
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a4388a23a3a1350800000000000000
+      internalID: 5988162643792448156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 435
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045bc0be955153f10800000000000000
+      internalID: 2248727064881182016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 435
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab360e6e8f51dbe0800000000000000
+      internalID: -1454276139328062559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7b2aaff73335fd0800000000000000
+      internalID: -2354481555425806399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 373
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ee667d4eed5a5c0800000000000000
+      internalID: -4204709602632733147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 373
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c4586501a4f41a0800000000000000
+      internalID: -6823153476411503465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 373
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd31879761a9528e0800000000000000
+      internalID: -1718798261454105636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 373
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3639d9b851fc70800000000000000
+      internalID: 9003074685326736968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 373
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08aa4a1c39099ae0800000000000000
+      internalID: -1542191243653896180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 373
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7a33706e314cda0800000000000000
+      internalID: -5925589331028498498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 373
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ad0adab8a761f40800000000000000
+      internalID: 5698877118815984187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75318ce8a96041900800000000000000
+      internalID: 654155106765771607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 311
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171929542904aad0800000000000000
+      internalID: -2692016625541376228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 311
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d44945a82e71d560800000000000000
+      internalID: 7336783981000082646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 311
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031db95cbde45ac40800000000000000
+      internalID: 5522907223859908912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_20
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 311
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8de5f027e01aea50800000000000000
+      internalID: 6551067192840285580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 311
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ff04e4bde9c7940800000000000000
+      internalID: 5295281926628769557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 311
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9fc1f162a7ca2b0800000000000000
+      internalID: -5571944334814807646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_23
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 311
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec47c05b1b46d720800000000000000
+      internalID: 2870564393186708710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac20f5d8da789c640800000000000000
+      internalID: 5100757232444703434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 249
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3a50ffbd4756720800000000000000
+      internalID: 2838803628352185325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 249
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db5c379cf854820800000000000000
+      internalID: 2901883630303690136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 249
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6451a182e499c4540800000000000000
+      internalID: 4993534647806334278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 249
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521919caa39eecca0800000000000000
+      internalID: -5994597615770955483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 249
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1290ce80123aa70800000000000000
+      internalID: 8836943216034521556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_30
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 249
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39898aab64e8d1d60800000000000000
+      internalID: 7862596958889220243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 249
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d1a9d28ee52760800000000000000
+      internalID: 7432609005809293185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf6f37c022acdb90800000000000000
+      internalID: -7215714241288900678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 187
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ed3b10ab7f3370800000000000000
+      internalID: 8304492165476509549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 187
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d3f9586ae76880800000000000000
+      internalID: -8617661628043505525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_35
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 187
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330f3ac6e4a082730800000000000000
+      internalID: 3974438003100872755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 187
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c796e805d8c7e120800000000000000
+      internalID: 2443142140174702530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 187
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b35893c9f74c130800000000000000
+      internalID: 3586131512250416005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 187
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ad9f71b9e05d800800000000000000
+      internalID: 636430981627763249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_39
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 187
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48c8dd427a55fd80800000000000000
+      internalID: -8217562498088777649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8c5840c9e3b0c0800000000000000
+      internalID: -4561044985539162291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 125
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960701104251c5780800000000000000
+      internalID: -8693049936351039383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 125
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b130e6946693f820800000000000000
+      internalID: 2950867539629978038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_43
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 125
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834e0d2127d549380800000000000000
+      internalID: -8965438213664480200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 125
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afae7082e553b870800000000000000
+      internalID: 8697389736689315744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 125
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d39f59e336dd00800000000000000
+      internalID: 997041444933064796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_46
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 125
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82c8363d2600f2a0800000000000000
+      internalID: -6705853053901684086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_47
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 125
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab79e073d0759410800000000000000
+      internalID: 1483215705723206565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c423a1e290780c530800000000000000
+      internalID: 3873244153036550732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 63
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1802e4e4550990430800000000000000
+      internalID: 3749686860823011457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_50
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 63
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eecb2896cf85400800000000000000
+      internalID: 313277704197435003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 63
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaf1f2f9b9bf3f40800000000000000
+      internalID: 5710487060825111245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 63
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc84bb7a5154d79e0800000000000000
+      internalID: -1622064331472811828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_53
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 63
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfead3150ff21750800000000000000
+      internalID: 6274357628153556948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_54
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 63
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3cf63f87d024ca0800000000000000
+      internalID: -6034245737591618606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_55
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 63
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93567d40578324960800000000000000
+      internalID: 7584686797688890681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48734da35281e9bd0800000000000000
+      internalID: -2621631384903207036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d19a6ea9dbf88830800000000000000
+      internalID: 4073782775309308375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_58
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f671207839da400800000000000000
+      internalID: 337087755187613526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_59
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22106845f8dcb390800000000000000
+      internalID: -7801121906519698902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a6abd9d72842480800000000000000
+      internalID: -8924865085512717672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_61
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ba0e6d6454bfbe0800000000000000
+      internalID: -1442483085087036619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_62
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1fc161a93823390800000000000000
+      internalID: -7840059303479414315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chessgrille_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55ddaaf5c874cdf0800000000000000
+      internalID: -160870894968908449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

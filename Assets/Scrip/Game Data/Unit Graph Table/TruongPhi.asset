@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11466a57c3047cc4c991ad5179343354, type: 3}
+  m_Name: TruongPhi
+  m_EditorClassIdentifier: 
+  UnitFilter: {fileID: 6271203807227470707, guid: 37f346cd000efd04fab131bde39bd39c, type: 3}
+  UnitRenderer: {fileID: 2464561765770781361, guid: bf7df21b61d2d1743bec90b1d307df15, type: 3}
+  UnitMat: {fileID: 2100000, guid: 84b0ba7478ffeef4c84e05bf4ff31743, type: 2}
+  UnitAvatar: {fileID: 21300000, guid: 9823606f1d711d84e8a85e18a1bbf839, type: 3}
+  UnitID: H003

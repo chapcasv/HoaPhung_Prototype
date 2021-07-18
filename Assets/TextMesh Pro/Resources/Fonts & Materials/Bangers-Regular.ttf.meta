@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3cb7e7b217008024db669730acfe6ff4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bangers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6244df8bd11fa1c429c8823eb8b5efb1, type: 3}
+  - {fileID: 12800000, guid: d1b7ef4a653a4a348b864e9b243c0997, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
