@@ -48,7 +48,7 @@ public class SettingSystem : MonoBehaviour
     {
         SaveVolume();
         //SaveScreenSize;
-        //SaveGameLaneguane;
+        //SaveGameLanguage;
         UnActiveUI();
     }
 
@@ -56,7 +56,7 @@ public class SettingSystem : MonoBehaviour
     {
         LoadVolume();
         //LoadScreenSize;
-        //LoadGameLaneguane;
+        //LoadGameLanguage;
         ActiveUI();
     }
 
