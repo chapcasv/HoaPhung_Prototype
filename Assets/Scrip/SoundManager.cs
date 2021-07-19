@@ -1,13 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SoundManager : MonoBehaviour
 {
+    
     public AudioClip themesong, fightsong;
-
     public AudioSource adisrc;
     public static SoundManager instance;
+
     // Start is called before the first frame update
     void Awake()
     {   
