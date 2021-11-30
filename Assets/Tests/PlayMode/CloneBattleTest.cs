@@ -6,16 +6,16 @@ using UnityEngine.TestTools;
 
 public class CloneBattleTest : MonoBehaviour
 {
-    [Test]
-    public void CloneBattle_Test()
-    {
+    //[Test]
+    //public void CloneBattle_Test()
+    //{
 
-        BattleSystem.instance.unitOfTeam = new Dictionary<Team, List<BaseEntiny>>();
+    //    BattleSystem.instance.unitOfTeam = new Dictionary<Team, List<BaseEntiny>>();
 
 
-        CloneBattleSystem.Clone_For(Team.Team1);
-        Assert.AreEqual(BattleSystem.instance.unitOfTeam.Count,CloneBattleSystem.startNode.Count);
-    }
+    //    CloneBattleSystem.Clone_For(Team.Team1);
+    //    Assert.AreEqual(BattleSystem.instance.unitOfTeam.Count,CloneBattleSystem.startNode.Count);
+    //}
 }
 
 
